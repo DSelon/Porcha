@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9febeff2119701240b95a75102f32827
+timeCreated: 1514368742
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Sound_Effect_1: {fileID: 8300000, guid: 65cb1674efae29a499b11684d8e30ce4, type: 3}
+  - Sound_Effect_2: {fileID: 8300000, guid: e6e0f71dce7d4a24991cec228766f396, type: 3}
+  - Sound_Effect_3: {fileID: 8300000, guid: dbaf53c413f623d47b07ffc786d8c202, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
